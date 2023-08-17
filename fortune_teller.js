@@ -18,7 +18,7 @@ if (fortune >=0 && fortune  <=3){
     response = "you have an average fortune";}
     else if (fortune >7 && fortune <=10)
     {response = "you have a good fortune";
-    } else {response = "can't be read correctly";}
+    } else {response = "can not be read correctly";}
 console.log(response)
 
 
